@@ -1,0 +1,36 @@
+{
+  "synthetic": true,
+  "comment": "SYNTHETIC: five hand-written records; copy into a separate input directory",
+  "records": [
+    {
+      "id": "tiny-positive",
+      "text": "Interested in learning more.",
+      "synthetic": true,
+      "expected": "positive"
+    },
+    {
+      "id": "tiny-negative",
+      "text": "Not interested, thanks.",
+      "synthetic": true,
+      "expected": "negative"
+    },
+    {
+      "id": "tiny-objection",
+      "text": "This is too expensive.",
+      "synthetic": true,
+      "expected": "objection"
+    },
+    {
+      "id": "tiny-timing",
+      "text": "Try next quarter.",
+      "synthetic": true,
+      "expected": "timing"
+    },
+    {
+      "id": "tiny-referral",
+      "text": "Contact my colleague Alex.",
+      "synthetic": true,
+      "expected": "referral"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "comment": "SYNTHETIC: hand-computed expectations, not classifier output",
+  "correct": 200,
+  "counts": {
+    "negative": 40,
+    "objection": 40,
+    "positive": 40,
+    "referral": 40,
+    "timing": 40,
+    "unclassified": 0
+  },
+  "errors": 0,
+  "false_positives": 0,
+  "labelled": 200,
+  "synthetic": true,
+  "total": 200
+}

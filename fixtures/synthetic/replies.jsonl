@@ -1,0 +1,201 @@
+# SYNTHETIC: planted phrase examples, not real trial evidence.
+{"expected": "positive", "id": "positive-000", "synthetic": true, "text": "Interested in learning more. Reference 0."}
+{"expected": "positive", "id": "positive-001", "synthetic": true, "text": "Please book a call. Reference 1."}
+{"expected": "positive", "id": "positive-002", "synthetic": true, "text": "Sounds good, send details. Reference 2."}
+{"expected": "positive", "id": "positive-003", "synthetic": true, "text": "Let's talk tomorrow. Reference 3."}
+{"expected": "positive", "id": "positive-004", "synthetic": true, "text": "Interested in learning more. Reference 4."}
+{"expected": "positive", "id": "positive-005", "synthetic": true, "text": "Please book a call. Reference 5."}
+{"expected": "positive", "id": "positive-006", "synthetic": true, "text": "Sounds good, send details. Reference 6."}
+{"expected": "positive", "id": "positive-007", "synthetic": true, "text": "Let's talk tomorrow. Reference 7."}
+{"expected": "positive", "id": "positive-008", "synthetic": true, "text": "Interested in learning more. Reference 8."}
+{"expected": "positive", "id": "positive-009", "synthetic": true, "text": "Please book a call. Reference 9."}
+{"expected": "positive", "id": "positive-010", "synthetic": true, "text": "Sounds good, send details. Reference 10."}
+{"expected": "positive", "id": "positive-011", "synthetic": true, "text": "Let's talk tomorrow. Reference 11."}
+{"expected": "positive", "id": "positive-012", "synthetic": true, "text": "Interested in learning more. Reference 12."}
+{"expected": "positive", "id": "positive-013", "synthetic": true, "text": "Please book a call. Reference 13."}
+{"expected": "positive", "id": "positive-014", "synthetic": true, "text": "Sounds good, send details. Reference 14."}
+{"expected": "positive", "id": "positive-015", "synthetic": true, "text": "Let's talk tomorrow. Reference 15."}
+{"expected": "positive", "id": "positive-016", "synthetic": true, "text": "Interested in learning more. Reference 16."}
+{"expected": "positive", "id": "positive-017", "synthetic": true, "text": "Please book a call. Reference 17."}
+{"expected": "positive", "id": "positive-018", "synthetic": true, "text": "Sounds good, send details. Reference 18."}
+{"expected": "positive", "id": "positive-019", "synthetic": true, "text": "Let's talk tomorrow. Reference 19."}
+{"expected": "positive", "id": "positive-020", "synthetic": true, "text": "Interested in learning more. Reference 20."}
+{"expected": "positive", "id": "positive-021", "synthetic": true, "text": "Please book a call. Reference 21."}
+{"expected": "positive", "id": "positive-022", "synthetic": true, "text": "Sounds good, send details. Reference 22."}
+{"expected": "positive", "id": "positive-023", "synthetic": true, "text": "Let's talk tomorrow. Reference 23."}
+{"expected": "positive", "id": "positive-024", "synthetic": true, "text": "Interested in learning more. Reference 24."}
+{"expected": "positive", "id": "positive-025", "synthetic": true, "text": "Please book a call. Reference 25."}
+{"expected": "positive", "id": "positive-026", "synthetic": true, "text": "Sounds good, send details. Reference 26."}
+{"expected": "positive", "id": "positive-027", "synthetic": true, "text": "Let's talk tomorrow. Reference 27."}
+{"expected": "positive", "id": "positive-028", "synthetic": true, "text": "Interested in learning more. Reference 28."}
+{"expected": "positive", "id": "positive-029", "synthetic": true, "text": "Please book a call. Reference 29."}
+{"expected": "positive", "id": "positive-030", "synthetic": true, "text": "Sounds good, send details. Reference 30."}
+{"expected": "positive", "id": "positive-031", "synthetic": true, "text": "Let's talk tomorrow. Reference 31."}
+{"expected": "positive", "id": "positive-032", "synthetic": true, "text": "Interested in learning more. Reference 32."}
+{"expected": "positive", "id": "positive-033", "synthetic": true, "text": "Please book a call. Reference 33."}
+{"expected": "positive", "id": "positive-034", "synthetic": true, "text": "Sounds good, send details. Reference 34."}
+{"expected": "positive", "id": "positive-035", "synthetic": true, "text": "Let's talk tomorrow. Reference 35."}
+{"expected": "positive", "id": "positive-036", "synthetic": true, "text": "Interested in learning more. Reference 36."}
+{"expected": "positive", "id": "positive-037", "synthetic": true, "text": "Please book a call. Reference 37."}
+{"expected": "positive", "id": "positive-038", "synthetic": true, "text": "Sounds good, send details. Reference 38."}
+{"expected": "positive", "id": "positive-039", "synthetic": true, "text": "Let's talk tomorrow. Reference 39."}
+{"expected": "negative", "id": "negative-000", "synthetic": true, "text": "Not interested, thanks. Reference 0."}
+{"expected": "negative", "id": "negative-001", "synthetic": true, "text": "No thanks. Reference 1."}
+{"expected": "negative", "id": "negative-002", "synthetic": true, "text": "Please remove me. Reference 2."}
+{"expected": "negative", "id": "negative-003", "synthetic": true, "text": "Unsubscribe from this list. Reference 3."}
+{"expected": "negative", "id": "negative-004", "synthetic": true, "text": "Not interested, thanks. Reference 4."}
+{"expected": "negative", "id": "negative-005", "synthetic": true, "text": "No thanks. Reference 5."}
+{"expected": "negative", "id": "negative-006", "synthetic": true, "text": "Please remove me. Reference 6."}
+{"expected": "negative", "id": "negative-007", "synthetic": true, "text": "Unsubscribe from this list. Reference 7."}
+{"expected": "negative", "id": "negative-008", "synthetic": true, "text": "Not interested, thanks. Reference 8."}
+{"expected": "negative", "id": "negative-009", "synthetic": true, "text": "No thanks. Reference 9."}
+{"expected": "negative", "id": "negative-010", "synthetic": true, "text": "Please remove me. Reference 10."}
+{"expected": "negative", "id": "negative-011", "synthetic": true, "text": "Unsubscribe from this list. Reference 11."}
+{"expected": "negative", "id": "negative-012", "synthetic": true, "text": "Not interested, thanks. Reference 12."}
+{"expected": "negative", "id": "negative-013", "synthetic": true, "text": "No thanks. Reference 13."}
+{"expected": "negative", "id": "negative-014", "synthetic": true, "text": "Please remove me. Reference 14."}
+{"expected": "negative", "id": "negative-015", "synthetic": true, "text": "Unsubscribe from this list. Reference 15."}
+{"expected": "negative", "id": "negative-016", "synthetic": true, "text": "Not interested, thanks. Reference 16."}
+{"expected": "negative", "id": "negative-017", "synthetic": true, "text": "No thanks. Reference 17."}
+{"expected": "negative", "id": "negative-018", "synthetic": true, "text": "Please remove me. Reference 18."}
+{"expected": "negative", "id": "negative-019", "synthetic": true, "text": "Unsubscribe from this list. Reference 19."}
+{"expected": "negative", "id": "negative-020", "synthetic": true, "text": "Not interested, thanks. Reference 20."}
+{"expected": "negative", "id": "negative-021", "synthetic": true, "text": "No thanks. Reference 21."}
+{"expected": "negative", "id": "negative-022", "synthetic": true, "text": "Please remove me. Reference 22."}
+{"expected": "negative", "id": "negative-023", "synthetic": true, "text": "Unsubscribe from this list. Reference 23."}
+{"expected": "negative", "id": "negative-024", "synthetic": true, "text": "Not interested, thanks. Reference 24."}
+{"expected": "negative", "id": "negative-025", "synthetic": true, "text": "No thanks. Reference 25."}
+{"expected": "negative", "id": "negative-026", "synthetic": true, "text": "Please remove me. Reference 26."}
+{"expected": "negative", "id": "negative-027", "synthetic": true, "text": "Unsubscribe from this list. Reference 27."}
+{"expected": "negative", "id": "negative-028", "synthetic": true, "text": "Not interested, thanks. Reference 28."}
+{"expected": "negative", "id": "negative-029", "synthetic": true, "text": "No thanks. Reference 29."}
+{"expected": "negative", "id": "negative-030", "synthetic": true, "text": "Please remove me. Reference 30."}
+{"expected": "negative", "id": "negative-031", "synthetic": true, "text": "Unsubscribe from this list. Reference 31."}
+{"expected": "negative", "id": "negative-032", "synthetic": true, "text": "Not interested, thanks. Reference 32."}
+{"expected": "negative", "id": "negative-033", "synthetic": true, "text": "No thanks. Reference 33."}
+{"expected": "negative", "id": "negative-034", "synthetic": true, "text": "Please remove me. Reference 34."}
+{"expected": "negative", "id": "negative-035", "synthetic": true, "text": "Unsubscribe from this list. Reference 35."}
+{"expected": "negative", "id": "negative-036", "synthetic": true, "text": "Not interested, thanks. Reference 36."}
+{"expected": "negative", "id": "negative-037", "synthetic": true, "text": "No thanks. Reference 37."}
+{"expected": "negative", "id": "negative-038", "synthetic": true, "text": "Please remove me. Reference 38."}
+{"expected": "negative", "id": "negative-039", "synthetic": true, "text": "Unsubscribe from this list. Reference 39."}
+{"expected": "objection", "id": "objection-000", "synthetic": true, "text": "This is too expensive. Reference 0."}
+{"expected": "objection", "id": "objection-001", "synthetic": true, "text": "We have no budget. Reference 1."}
+{"expected": "objection", "id": "objection-002", "synthetic": true, "text": "We already use another solution. Reference 2."}
+{"expected": "objection", "id": "objection-003", "synthetic": true, "text": "I need approval first. Reference 3."}
+{"expected": "objection", "id": "objection-004", "synthetic": true, "text": "This is too expensive. Reference 4."}
+{"expected": "objection", "id": "objection-005", "synthetic": true, "text": "We have no budget. Reference 5."}
+{"expected": "objection", "id": "objection-006", "synthetic": true, "text": "We already use another solution. Reference 6."}
+{"expected": "objection", "id": "objection-007", "synthetic": true, "text": "I need approval first. Reference 7."}
+{"expected": "objection", "id": "objection-008", "synthetic": true, "text": "This is too expensive. Reference 8."}
+{"expected": "objection", "id": "objection-009", "synthetic": true, "text": "We have no budget. Reference 9."}
+{"expected": "objection", "id": "objection-010", "synthetic": true, "text": "We already use another solution. Reference 10."}
+{"expected": "objection", "id": "objection-011", "synthetic": true, "text": "I need approval first. Reference 11."}
+{"expected": "objection", "id": "objection-012", "synthetic": true, "text": "This is too expensive. Reference 12."}
+{"expected": "objection", "id": "objection-013", "synthetic": true, "text": "We have no budget. Reference 13."}
+{"expected": "objection", "id": "objection-014", "synthetic": true, "text": "We already use another solution. Reference 14."}
+{"expected": "objection", "id": "objection-015", "synthetic": true, "text": "I need approval first. Reference 15."}
+{"expected": "objection", "id": "objection-016", "synthetic": true, "text": "This is too expensive. Reference 16."}
+{"expected": "objection", "id": "objection-017", "synthetic": true, "text": "We have no budget. Reference 17."}
+{"expected": "objection", "id": "objection-018", "synthetic": true, "text": "We already use another solution. Reference 18."}
+{"expected": "objection", "id": "objection-019", "synthetic": true, "text": "I need approval first. Reference 19."}
+{"expected": "objection", "id": "objection-020", "synthetic": true, "text": "This is too expensive. Reference 20."}
+{"expected": "objection", "id": "objection-021", "synthetic": true, "text": "We have no budget. Reference 21."}
+{"expected": "objection", "id": "objection-022", "synthetic": true, "text": "We already use another solution. Reference 22."}
+{"expected": "objection", "id": "objection-023", "synthetic": true, "text": "I need approval first. Reference 23."}
+{"expected": "objection", "id": "objection-024", "synthetic": true, "text": "This is too expensive. Reference 24."}
+{"expected": "objection", "id": "objection-025", "synthetic": true, "text": "We have no budget. Reference 25."}
+{"expected": "objection", "id": "objection-026", "synthetic": true, "text": "We already use another solution. Reference 26."}
+{"expected": "objection", "id": "objection-027", "synthetic": true, "text": "I need approval first. Reference 27."}
+{"expected": "objection", "id": "objection-028", "synthetic": true, "text": "This is too expensive. Reference 28."}
+{"expected": "objection", "id": "objection-029", "synthetic": true, "text": "We have no budget. Reference 29."}
+{"expected": "objection", "id": "objection-030", "synthetic": true, "text": "We already use another solution. Reference 30."}
+{"expected": "objection", "id": "objection-031", "synthetic": true, "text": "I need approval first. Reference 31."}
+{"expected": "objection", "id": "objection-032", "synthetic": true, "text": "This is too expensive. Reference 32."}
+{"expected": "objection", "id": "objection-033", "synthetic": true, "text": "We have no budget. Reference 33."}
+{"expected": "objection", "id": "objection-034", "synthetic": true, "text": "We already use another solution. Reference 34."}
+{"expected": "objection", "id": "objection-035", "synthetic": true, "text": "I need approval first. Reference 35."}
+{"expected": "objection", "id": "objection-036", "synthetic": true, "text": "This is too expensive. Reference 36."}
+{"expected": "objection", "id": "objection-037", "synthetic": true, "text": "We have no budget. Reference 37."}
+{"expected": "objection", "id": "objection-038", "synthetic": true, "text": "We already use another solution. Reference 38."}
+{"expected": "objection", "id": "objection-039", "synthetic": true, "text": "I need approval first. Reference 39."}
+{"expected": "timing", "id": "timing-000", "synthetic": true, "text": "Try next quarter. Reference 0."}
+{"expected": "timing", "id": "timing-001", "synthetic": true, "text": "Check back next month. Reference 1."}
+{"expected": "timing", "id": "timing-002", "synthetic": true, "text": "Not right now. Reference 2."}
+{"expected": "timing", "id": "timing-003", "synthetic": true, "text": "Later this year would work. Reference 3."}
+{"expected": "timing", "id": "timing-004", "synthetic": true, "text": "Try next quarter. Reference 4."}
+{"expected": "timing", "id": "timing-005", "synthetic": true, "text": "Check back next month. Reference 5."}
+{"expected": "timing", "id": "timing-006", "synthetic": true, "text": "Not right now. Reference 6."}
+{"expected": "timing", "id": "timing-007", "synthetic": true, "text": "Later this year would work. Reference 7."}
+{"expected": "timing", "id": "timing-008", "synthetic": true, "text": "Try next quarter. Reference 8."}
+{"expected": "timing", "id": "timing-009", "synthetic": true, "text": "Check back next month. Reference 9."}
+{"expected": "timing", "id": "timing-010", "synthetic": true, "text": "Not right now. Reference 10."}
+{"expected": "timing", "id": "timing-011", "synthetic": true, "text": "Later this year would work. Reference 11."}
+{"expected": "timing", "id": "timing-012", "synthetic": true, "text": "Try next quarter. Reference 12."}
+{"expected": "timing", "id": "timing-013", "synthetic": true, "text": "Check back next month. Reference 13."}
+{"expected": "timing", "id": "timing-014", "synthetic": true, "text": "Not right now. Reference 14."}
+{"expected": "timing", "id": "timing-015", "synthetic": true, "text": "Later this year would work. Reference 15."}
+{"expected": "timing", "id": "timing-016", "synthetic": true, "text": "Try next quarter. Reference 16."}
+{"expected": "timing", "id": "timing-017", "synthetic": true, "text": "Check back next month. Reference 17."}
+{"expected": "timing", "id": "timing-018", "synthetic": true, "text": "Not right now. Reference 18."}
+{"expected": "timing", "id": "timing-019", "synthetic": true, "text": "Later this year would work. Reference 19."}
+{"expected": "timing", "id": "timing-020", "synthetic": true, "text": "Try next quarter. Reference 20."}
+{"expected": "timing", "id": "timing-021", "synthetic": true, "text": "Check back next month. Reference 21."}
+{"expected": "timing", "id": "timing-022", "synthetic": true, "text": "Not right now. Reference 22."}
+{"expected": "timing", "id": "timing-023", "synthetic": true, "text": "Later this year would work. Reference 23."}
+{"expected": "timing", "id": "timing-024", "synthetic": true, "text": "Try next quarter. Reference 24."}
+{"expected": "timing", "id": "timing-025", "synthetic": true, "text": "Check back next month. Reference 25."}
+{"expected": "timing", "id": "timing-026", "synthetic": true, "text": "Not right now. Reference 26."}
+{"expected": "timing", "id": "timing-027", "synthetic": true, "text": "Later this year would work. Reference 27."}
+{"expected": "timing", "id": "timing-028", "synthetic": true, "text": "Try next quarter. Reference 28."}
+{"expected": "timing", "id": "timing-029", "synthetic": true, "text": "Check back next month. Reference 29."}
+{"expected": "timing", "id": "timing-030", "synthetic": true, "text": "Not right now. Reference 30."}
+{"expected": "timing", "id": "timing-031", "synthetic": true, "text": "Later this year would work. Reference 31."}
+{"expected": "timing", "id": "timing-032", "synthetic": true, "text": "Try next quarter. Reference 32."}
+{"expected": "timing", "id": "timing-033", "synthetic": true, "text": "Check back next month. Reference 33."}
+{"expected": "timing", "id": "timing-034", "synthetic": true, "text": "Not right now. Reference 34."}
+{"expected": "timing", "id": "timing-035", "synthetic": true, "text": "Later this year would work. Reference 35."}
+{"expected": "timing", "id": "timing-036", "synthetic": true, "text": "Try next quarter. Reference 36."}
+{"expected": "timing", "id": "timing-037", "synthetic": true, "text": "Check back next month. Reference 37."}
+{"expected": "timing", "id": "timing-038", "synthetic": true, "text": "Not right now. Reference 38."}
+{"expected": "timing", "id": "timing-039", "synthetic": true, "text": "Later this year would work. Reference 39."}
+{"expected": "referral", "id": "referral-000", "synthetic": true, "text": "Contact my colleague Alex. Reference 0."}
+{"expected": "referral", "id": "referral-001", "synthetic": true, "text": "Speak to Sam about this. Reference 1."}
+{"expected": "referral", "id": "referral-002", "synthetic": true, "text": "Reach out to our CTO. Reference 2."}
+{"expected": "referral", "id": "referral-003", "synthetic": true, "text": "I forwarded to the team. Reference 3."}
+{"expected": "referral", "id": "referral-004", "synthetic": true, "text": "Contact my colleague Alex. Reference 4."}
+{"expected": "referral", "id": "referral-005", "synthetic": true, "text": "Speak to Sam about this. Reference 5."}
+{"expected": "referral", "id": "referral-006", "synthetic": true, "text": "Reach out to our CTO. Reference 6."}
+{"expected": "referral", "id": "referral-007", "synthetic": true, "text": "I forwarded to the team. Reference 7."}
+{"expected": "referral", "id": "referral-008", "synthetic": true, "text": "Contact my colleague Alex. Reference 8."}
+{"expected": "referral", "id": "referral-009", "synthetic": true, "text": "Speak to Sam about this. Reference 9."}
+{"expected": "referral", "id": "referral-010", "synthetic": true, "text": "Reach out to our CTO. Reference 10."}
+{"expected": "referral", "id": "referral-011", "synthetic": true, "text": "I forwarded to the team. Reference 11."}
+{"expected": "referral", "id": "referral-012", "synthetic": true, "text": "Contact my colleague Alex. Reference 12."}
+{"expected": "referral", "id": "referral-013", "synthetic": true, "text": "Speak to Sam about this. Reference 13."}
+{"expected": "referral", "id": "referral-014", "synthetic": true, "text": "Reach out to our CTO. Reference 14."}
+{"expected": "referral", "id": "referral-015", "synthetic": true, "text": "I forwarded to the team. Reference 15."}
+{"expected": "referral", "id": "referral-016", "synthetic": true, "text": "Contact my colleague Alex. Reference 16."}
+{"expected": "referral", "id": "referral-017", "synthetic": true, "text": "Speak to Sam about this. Reference 17."}
+{"expected": "referral", "id": "referral-018", "synthetic": true, "text": "Reach out to our CTO. Reference 18."}
+{"expected": "referral", "id": "referral-019", "synthetic": true, "text": "I forwarded to the team. Reference 19."}
+{"expected": "referral", "id": "referral-020", "synthetic": true, "text": "Contact my colleague Alex. Reference 20."}
+{"expected": "referral", "id": "referral-021", "synthetic": true, "text": "Speak to Sam about this. Reference 21."}
+{"expected": "referral", "id": "referral-022", "synthetic": true, "text": "Reach out to our CTO. Reference 22."}
+{"expected": "referral", "id": "referral-023", "synthetic": true, "text": "I forwarded to the team. Reference 23."}
+{"expected": "referral", "id": "referral-024", "synthetic": true, "text": "Contact my colleague Alex. Reference 24."}
+{"expected": "referral", "id": "referral-025", "synthetic": true, "text": "Speak to Sam about this. Reference 25."}
+{"expected": "referral", "id": "referral-026", "synthetic": true, "text": "Reach out to our CTO. Reference 26."}
+{"expected": "referral", "id": "referral-027", "synthetic": true, "text": "I forwarded to the team. Reference 27."}
+{"expected": "referral", "id": "referral-028", "synthetic": true, "text": "Contact my colleague Alex. Reference 28."}
+{"expected": "referral", "id": "referral-029", "synthetic": true, "text": "Speak to Sam about this. Reference 29."}
+{"expected": "referral", "id": "referral-030", "synthetic": true, "text": "Reach out to our CTO. Reference 30."}
+{"expected": "referral", "id": "referral-031", "synthetic": true, "text": "I forwarded to the team. Reference 31."}
+{"expected": "referral", "id": "referral-032", "synthetic": true, "text": "Contact my colleague Alex. Reference 32."}
+{"expected": "referral", "id": "referral-033", "synthetic": true, "text": "Speak to Sam about this. Reference 33."}
+{"expected": "referral", "id": "referral-034", "synthetic": true, "text": "Reach out to our CTO. Reference 34."}
+{"expected": "referral", "id": "referral-035", "synthetic": true, "text": "I forwarded to the team. Reference 35."}
+{"expected": "referral", "id": "referral-036", "synthetic": true, "text": "Contact my colleague Alex. Reference 36."}
+{"expected": "referral", "id": "referral-037", "synthetic": true, "text": "Speak to Sam about this. Reference 37."}
+{"expected": "referral", "id": "referral-038", "synthetic": true, "text": "Reach out to our CTO. Reference 38."}
+{"expected": "referral", "id": "referral-039", "synthetic": true, "text": "I forwarded to the team. Reference 39."}
