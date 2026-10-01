@@ -1,0 +1,7 @@
+Reply Intent Classifier build completed 2026-10-01.
+Test count: 44 passed (pytest).
+Local tested implementation commit: 3c82038fa2f83f43523d88323c326035dc369d3d
+This hash identifies the implementation and evidence commit before this completion record, avoiding a self-referential hash.
+Measured installed CLI demo duration: 0.825 seconds for fixtures + run + Markdown report.
+
+Built a deterministic CPU-only local Python CLI with fixtures, run, report, classify and audit commands; pure phrase-based classification for five reply intents with explicit abstention and match evidence; JSON, JSONL and CSV validation; 200 labelled synthetic fixtures and a five-record hand-written sample; hand-computed expectations; provenance-bearing Markdown and JSON reports; atomic output writes; and 44 passing acceptance and adversarial tests. Documentation records the honesty boundary, known language limitations, local demo evidence, KOML lessons and a two-week real-use accuracy hook. Synthetic labels match exactly with zero labelled false positives. Real-world accuracy, usage and savings remain unmeasured; final verdict is pending real-use evidence, with provisional maintain as portfolio evidence. Nothing was published and no external service or model was called.
